@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jagrelot.lwc-l3uf1ygw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve UxEiPZ9819kBwy9RaNUr --open"
+  }
+}
